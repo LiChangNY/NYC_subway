@@ -1,4 +1,4 @@
-# Final Project - Introduction to Data Science 
+# A Data Science Approach to Understand NYC Subway Data 
 
 Author: Li Chang <br> Date pulished: 9/28/2014
 
